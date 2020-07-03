@@ -1,0 +1,15 @@
+{
+	"name":"qlik-echart-map-portugal",
+	"description":"Portugal Chart Map based on eCharts for Qlik Sense",
+	"type":"visualization",
+	"version":"1.0.0",
+	"icon":"extension",
+	"preview":"qlik-echart-map-portugal-sample.png",
+	"author":"Andre Mesquita",
+	"homepage":"https://github.com/avmesquita/qlik-echart-map-portugal",
+	"keywords":"qlik, echart, qlik-sense, map, portugal, visualization",
+	"license":"GPL",
+	"repository":"",
+	"dependencies":{"qlik-sense":">=3.0.x"},
+	"src":"./qlik-echart-map-portugal-sample.png"
+}
